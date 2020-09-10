@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "303808504155",
+    "firebase_url": "https://hinjaku-honyaku.firebaseio.com",
+    "project_id": "hinjaku-honyaku",
+    "storage_bucket": "hinjaku-honyaku.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303808504155:android:bbcc16df8923ce4c187a7e",
+        "android_client_info": {
+          "package_name": "com.hinjakuhonyaku.hh_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303808504155-jgh9qn0rlkd79h20gh4nrtoptu9l0qjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4tIogkesxCrd6P_Clbcx5JcTTvElzYFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303808504155-jgh9qn0rlkd79h20gh4nrtoptu9l0qjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
