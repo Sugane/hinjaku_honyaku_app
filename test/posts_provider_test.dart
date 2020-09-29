@@ -4,7 +4,7 @@ import '../lib/models/posts.dart';
 import 'dart:async';
 
 void main() {
-  group('Unit tests for all the methods in posts provider', () {
+  group('Unit tests for all the methods in posts provider: ', () {
     test('There should be 0 posts at start', () {
       expect(PostsProvider().posts, []);
     });
